@@ -10,14 +10,20 @@
 </ul>
 </div>
 
+<div id = "results">
+  Submit answer
+</div>
+
 <script>
-  if (document.getElementById('q1').checked) {
-  trend_value = document.getElementById('q1').value;
+
+  $(document).ready(function()) {
+    $("#results").click(function() {
+      if (!$("input[@name=q1]:checked").val()) {
+        alert("You clicked something!  Weeeeee")
+      }
+    }
   }
   
-  if(trend_value){
-    alert("You clicked something!  Weeeeee")
-  }
 </script>
 
 </html>
