@@ -2,17 +2,26 @@
 
 <form name="trend" action="trend_action.asp" method="get">
 What is the trend on the weekly chart?<br>
-<ul>
-  <input type="radio" name="trend" value="Up">Up<br>
-  <input type="radio" name="trend" value="Down">Down<br>
-  <input type="radio" name="trend" value="Sideways">Sideways<br>
-  <input type="radio" name="trend" value="Dunno">I don't know how to find trend
-</ul>
-</form>
-
 <div id = "results">
-  <button type="button">Submit Answer</button>
+
+  <form action="http://www.sydneymwong.com/trend_up">
+  <button>Up</button>
+  </form>
+  
+  <form action="http://www.sydneymwong.com/trend_down">
+  <button>Down</button>
+  </form>
+  
+  <form action="http://www.sydneymwong.com/trend_sideways">
+  <button>Sideways</button>
+  </form>
+  
+  <form action="http://www.sydneymwong.com/trend_derp">
+  <button>I don't know how to find trend</button>
+  </form>
+  
 </div>
+</form>
 
 <script type="text/javascript" src="/javascript/jquery.js"></script>
 <script type="text/javascript" src="/javascript/trading.js"></script>
