@@ -1,0 +1,29 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Sydney Wong's Data Blog</title>
+	<link href="http://sydneymwong.github.io/data_blog/atom.xml" rel="self"/>
+	<link href="http://sydneymwong.github.io/data_blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://sydneymwong.github.io/data_blog</id>
+	<author>
+		<name>Sydney Wong</name>
+		<email>sydneymwong@gmail.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		{% if post.categories contains 'data' %}
+			<entry>
+				<title>{{ post.title }}</title>
+				<link href="http://sydneymwong.github.io{{ post.url }}"/>
+				<updated>{{ post.date | date_to_xmlschema }}</updated>
+				<id>http://sydneymwong.github.io{{ post.id }}</id>
+				<content type="html">{{ post.content | xml_escape }}</content>
+			</entry>
+		{% endif %}
+	{% endfor %}
+
+</feed>
