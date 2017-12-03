@@ -1,5 +1,5 @@
 name: Sydney Wong, Data Lover
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
