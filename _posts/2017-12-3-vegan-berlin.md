@@ -13,32 +13,42 @@ I have personally visited each place described below and taken all the pictures 
 
 ### Kurfurstendamm
 
-Vaust - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.  [Website](http://vaust-berlin.de/) [Yelp](https://www.yelp.com/biz/vaust-berlin)
+Vaust - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.  
 Must try their currywurst and home-brewed beer!  Best to make a reservation.
+[Website](http://vaust-berlin.de/) [Yelp](https://www.yelp.com/biz/vaust-berlin)
 
 ### Mitte
 
-Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  [Website](https://momos-berlin.de/) [Yelp](https://www.yelp.com/biz/momos-berlin-3)
+Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
+[Website](https://momos-berlin.de/) [Yelp](https://www.yelp.com/biz/momos-berlin-3)
 
-Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  [Website](http://www.kopps-berlin.de/en/) [Yelp](https://www.yelp.com/biz/kopps-berlin)
+Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
 Pricier but great ambiance and food.  Best to make a reservation.  
+[Website](http://www.kopps-berlin.de/en/) [Yelp](https://www.yelp.com/biz/kopps-berlin)
 
 ### Prenzlauer Berg
 
-Chaostheorie - (€) Vegan, Schliemannstraße 15, 10437.  Transit: Prenzlauer Allee, Eberswalder Straße or Schönhauser Allee.  [Website](http://www.chaostheorie.berlin/) [Yelp](https://www.yelp.com/biz/chaostheorie-berlin)
+Chaostheorie - (€) Vegan, Schliemannstraße 15, 10437.  Transit: Prenzlauer Allee, Eberswalder Straße or Schönhauser Allee.  
 Variety of vegan cakes to buy by the slice.  Cake was good but kind of dry.  
+[Website](http://www.chaostheorie.berlin/) [Yelp](https://www.yelp.com/biz/chaostheorie-berlin)
 
-Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderplatz.  [Website](https://liaskitchen.de/de/home) [Yelp](https://www.yelp.com/biz/lias-kitchen-berlin-3)
+Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderplatz.  
+[Website](https://liaskitchen.de/de/home) [Yelp](https://www.yelp.com/biz/lias-kitchen-berlin-3)
 
 ### Friedrichshain
 
-Curry and Beer - (€) Serves meat but has vegan options, Warschauer Str. 16, 10243.  Transit: Frankfurter Tor.  [Website](http://curryundbeer.com/) [Yelp](https://www.yelp.com/biz/curry-und-beer-berlin)
+Curry and Beer - (€) Serves meat but has vegan options, Warschauer Str. 16, 10243.  Transit: Frankfurter Tor.  
+[Website](http://curryundbeer.com/) [Yelp](https://www.yelp.com/biz/curry-und-beer-berlin)
 
-Papa Nô - (€€) Serves meat but has vegan options, Warschauer Str. 81a, 10243.  Transit: Frankfurter Tor.  [Website](http://papa-no.de/) [Yelp](https://www.yelp.com/biz/papa-n%C3%B4-berlin-8)
+Papa Nô - (€€) Serves meat but has vegan options, Warschauer Str. 81a, 10243.  Transit: Frankfurter Tor.  
+[Website](http://papa-no.de/) [Yelp](https://www.yelp.com/biz/papa-n%C3%B4-berlin-8)
 
-Voner - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  [Website](http://www.voener.de/)  [Yelp](https://www.yelp.com/biz/v%C3%B6ner-berlin)
+Voner - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  
+[Website](http://www.voener.de/)  [Yelp](https://www.yelp.com/biz/v%C3%B6ner-berlin)
 
-Zeus Pizza & Pide - (€) Serves meat but has vegan options, Boxhagener Str. 29-30, 10245.  Transit: Frankfurter Tor.  [Website](https://www.zeuspizzeria.de/) [Yelp](https://www.yelp.com/biz/zeus-pizzeria-berlin) Ask for their vegan menu.  They have a separate menu that’s all vegan and has a ton of options!  We had the Zeus pizza which had mushrooms, salami, ham, banana peppers, and cheese (9 €).
+Zeus Pizza & Pide - (€) Serves meat but has vegan options, Boxhagener Str. 29-30, 10245.  Transit: Frankfurter Tor.  
+Ask for their vegan menu.  They have a separate menu that’s all vegan and has a ton of options!  We had the Zeus pizza which had mushrooms, salami, ham, banana peppers, and cheese (9 €).
+[Website](https://www.zeuspizzeria.de/) [Yelp](https://www.yelp.com/biz/zeus-pizzeria-berlin) 
 
 ## Grocery Stores
 
