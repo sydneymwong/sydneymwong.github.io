@@ -41,9 +41,9 @@ Zeus Pizza & Pide - (€) Serves meat but has vegan options, Boxhagener Str. 29-
 
 ### Veganz - Vegan, 3 locations in Berlin:
 
-* Schivelbeiner Str. 34, 10439 (Prenzlauer Berg)
-* Warschauer Str. 33, 10243 (Friedrichshain)
-* Marheinekepl. 15, 10961 (Bergmannkiez)
+* Schivelbeiner Str. 34, 10439 (Prenzlauer Berg).  Transit: Schönhauser Allee.
+* Warschauer Str. 33, 10243 (Friedrichshain).  Transit: Warschauer Straße.
+* Marheinekepl. 15, 10961 (Bergmannkiez).  Transit: U-Bhf Gneisenaustraße.
 
 ### Beer
 The Reinheitsgebot, or “German Beer Purity Law”, is a Bavarian law from 1516 that states the only ingredients that could be used in the production of beer were water, barley, and hops.  Since 1516, there is a revised law (“Provisional Beer Law”) of 1993, which states that only water, malted barley, hops and yeast can be used for any bottom-fermented beer brewed in Germany.  This is good news for vegans, because it means German beers are vegan.
