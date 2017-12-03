@@ -15,7 +15,7 @@ layout: feed
 	</author>
 
 	{% for post in site.posts %}
-		{% if post.categories contains 'data' %}
+		{% if post.categories contains 'data_blog' %}
 			<entry>
 				<title>{{ post.title }}</title>
 				<link href="http://sydneymwong.github.io{{ post.url }}"/>
