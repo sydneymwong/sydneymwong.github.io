@@ -1,6 +1,6 @@
 ---
 layout: post
-category: travel
+category: travel_blog
 title: "Sydney Wong Launches Travel Blog"
 date: 2017-11-29
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: travel
+category: travel_blog
 title: "Vegan in Berlin"
 date: 2017-12-03
 ---
