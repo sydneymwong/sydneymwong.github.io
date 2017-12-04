@@ -20,16 +20,27 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
 {% include image.html
             img="assets/vegan_berlin/Vaust_1.JPG"
             title="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer"
-            caption="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer" %}
-
-{% comment %}
-{% include image.html file="/vegan_berlin/Vaust_1.jpg" description="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer" %}
-![Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer](/assets/vegan_berlin/Vaust_1.jpg){:class="img-responsive"}
-![Currywurst](/assets/vegan_berlin/Vaust_2.jpg){:class="img-responsive"}
-![Two of the Lens](/assets/vegan_berlin/Vaust_3.jpg){:class="img-responsive"}
-![Mezzelune](/assets/vegan_berlin/Vaust_4.jpg){:class="img-responsive"}
-![Porcini Mushroom & Cabbage Risotto](/assets/vegan_berlin/Vaust_5.jpg){:class="img-responsive"}
-{% endcomment %}
+            caption="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer." %}
+			
+{% include image.html
+            img="assets/vegan_berlin/Vaust_2.JPG"
+            title="Currywurst"
+            caption="Seitan-Curry-Sausage (Currywurst) with homemade curry sauce made of organic tomato ketchup and spelt grain bread.  Gluten-free option made with tofu-sausages." %}
+			
+{% include image.html
+            img="assets/vegan_berlin/Vaust_3.JPG"
+            title="Two of the Lens"
+            caption="Beetroot and belugalentils, sauteed in balsamic and lime leaves, with yellow lentil cream, draped in rosemary-marinated pumpkin and tomato pesto." %}
+			
+{% include image.html
+            img="assets/vegan_berlin/Vaust_4.JPG"
+            title="Mezzelune"
+            caption="Half-moon paste stuffed with basil potato and onion pesto on braised eggplant, tomato-texmex sauce, "Parmesan" shrimp and herbal pesto." %}
+			
+{% include image.html
+            img="assets/vegan_berlin/Vaust_5.JPG"
+            title="Porcini Mushroom & Cabbage Risotto"
+            caption="Porcini Mushroom & Cabbage Risotto with fried pumpkin, artichoke heart baked in tempura batter and tomato pesto." %}
 
 ### Mitte
 
