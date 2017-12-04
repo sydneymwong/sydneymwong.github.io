@@ -31,7 +31,7 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
 {% include image.html
             img="assets/vegan_berlin/Vaust_4.JPG"
             title="Mezzelune"
-            caption="Half-moon paste stuffed with basil potato and onion pesto on braised eggplant, tomato-texmex sauce, "Parmesan" shrimp and herbal pesto." %}
+            caption="Half-moon paste stuffed with basil potato and onion pesto on braised eggplant, tomato-texmex sauce, Parmesan shrimp and herbal pesto." %}
 {% include image.html
             img="assets/vegan_berlin/Vaust_5.JPG"
             title="Porcini Mushroom & Cabbage Risotto"
