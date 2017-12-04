@@ -17,46 +17,10 @@ Vaust - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.
 Must try their currywurst and home-brewed beer!  Best to make a reservation.
 [Website](http://vaust-berlin.de/) [Yelp](https://www.yelp.com/biz/vaust-berlin)
 
-{% comment %}
-
-{% include image.html
-            img="assets/vegan_berlin/Vaust_1.JPG"
-            title="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer"
-            caption="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer." %}
-			
-{% include image.html
-            img="assets/vegan_berlin/Vaust_2.JPG"
-            title="Currywurst"
-            caption="Seitan-Curry-Sausage (Currywurst) with homemade curry sauce made of organic tomato ketchup and spelt grain bread.  Gluten-free option made with tofu-sausages." %}
-			
-{% include image.html
-            img="assets/vegan_berlin/Vaust_3.JPG"
-            title="Two of the Lens"
-            caption="Beetroot and belugalentils, sauteed in balsamic and lime leaves, with yellow lentil cream, draped in rosemary-marinated pumpkin and tomato pesto." %}
-			
-{% include image.html
-            img="assets/vegan_berlin/Vaust_4.JPG"
-            title="Mezzelune"
-            caption="Half-moon paste stuffed with basil potato and onion pesto on braised eggplant, tomato-texmex sauce, "Parmesan" shrimp and herbal pesto." %}
-			
-{% include image.html
-            img="assets/vegan_berlin/Vaust_5.JPG"
-            title="Porcini Mushroom & Cabbage Risotto"
-            caption="Porcini Mushroom & Cabbage Risotto with fried pumpkin, artichoke heart baked in tempura batter and tomato pesto." %}
-			
-{% endcomment %}
-
 ### Mitte
 
 Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
 [Website](https://momos-berlin.de/) [Yelp](https://www.yelp.com/biz/momos-berlin-3)
-
-{% comment %}
-{% include image.html
-            img="assets/vegan_berlin/Momos_1.JPG"
-            title="Momos"
-            caption="Momos Experience, for 2 people to share.  All 4 kinds of vegan Momos (Potato-Cabbage-Carrot, Pumpkin-Chickpeas, Broccoli-Shiitake-Tofu, Mushroom-Potato) and all 3 dips (Mitho, Lemon-Mint, Soy-Sesame)." %}
-{% endcomment %}
 			
 Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
 Pricier but great ambiance and food.  Best to make a reservation.  
