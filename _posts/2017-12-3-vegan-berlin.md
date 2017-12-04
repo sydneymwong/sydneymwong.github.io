@@ -16,14 +16,13 @@ I have personally visited each place described below and taken all the pictures 
 Vaust - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.  
 Must try their currywurst and home-brewed beer!  Best to make a reservation.
 [Website](http://vaust-berlin.de/) [Yelp](https://www.yelp.com/biz/vaust-berlin)
-{% include image.html file="/assets/vegan_berlin/Vaust_1.JPG" description="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer" %}
-
-
-{% comment %}
 {% include image.html
             img="assets/vegan_berlin/Vaust_1.JPG"
             title=""
             caption="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer" %}
+
+{% comment %}
+{% include image.html file="/vegan_berlin/Vaust_1.jpg" description="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer" %}
 ![Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer](/assets/vegan_berlin/Vaust_1.jpg){:class="img-responsive"}
 ![Currywurst](/assets/vegan_berlin/Vaust_2.jpg){:class="img-responsive"}
 ![Two of the Lens](/assets/vegan_berlin/Vaust_3.jpg){:class="img-responsive"}
