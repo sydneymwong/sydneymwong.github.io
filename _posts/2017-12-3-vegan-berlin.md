@@ -47,6 +47,11 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
 Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
 [Website](https://momos-berlin.de/) [Yelp](https://www.yelp.com/biz/momos-berlin-3)
 
+{% include image.html
+            img="assets/vegan_berlin/Momos_1.JPG"
+            title="Momos"
+            caption="Momos Experience, for 2 people to share.  All 4 kinds of vegan Momos (Potato-Cabbage-Carrot, Pumpkin-Chickpeas, Broccoli-Shiitake-Tofu, Mushroom-Potato) and all 3 dips (Mitho, Lemon-Mint, Soy-Sesame)." %}
+
 Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
 Pricier but great ambiance and food.  Best to make a reservation.  
 [Website](http://www.kopps-berlin.de/en/) [Yelp](https://www.yelp.com/biz/kopps-berlin)
