@@ -20,7 +20,10 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
             img="assets/vegan_berlin/Vaust_1.JPG"
             title="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer"
             caption="Whole-grain Bread with Grapeseed Oil and Smoked Salt, Home-brewed Beer." %}
-			
+{% include image.html
+            img="assets/vegan_berlin/Vaust_2.JPG"
+            title="Currywurst"
+            caption="Seitan-Curry-Sausage (Currywurst) with homemade curry sauce made of organic tomato ketchup and spelt grain bread.  Gluten-free option made with tofu-sausages." %}
 
 ### Mitte
 
