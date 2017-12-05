@@ -54,6 +54,8 @@ ul.posts li {
 figure { 
 	display: table; 
 	width: 60%;
+	max-width: 880px;
+	max-height: auto;
 }
 
 figcaption { 
