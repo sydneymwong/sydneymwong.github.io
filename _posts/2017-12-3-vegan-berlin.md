@@ -50,15 +50,51 @@ Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit:
 Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
 Pricier but great ambiance and food.  Best to make a reservation.  
 [Website](http://www.kopps-berlin.de/en/) [Yelp](https://www.yelp.com/biz/kopps-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Kopps_1.JPG"
+            title="Amuse Bouche"
+            caption="Amuse Bouche" %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_2.JPG"
+            title="Mushroom Appetizer"
+            caption="Mushroom Appetizer" %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_3.JPG"
+            title="Egg Salad Appetizer"
+            caption="Egg Salad Appetizer" %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_4.JPG"
+            title="Pumpkin Ravioli"
+            caption="Pumpkin Ravioli with Fried Sage and Sour Cherries." %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_5.JPG"
+            title="Wild Mushroom Ragu"
+            caption="Wild Mushroom Ragu with Wheat Berry Risotto and Carrot." %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_6.JPG"
+            title="Kohlrabi"
+            caption="Kohlrabi." %}
+{% include image.html
+            img="assets/vegan_berlin/Kopps_7.JPG"
+            title="Dessert"
+            caption="Black Cherry Jellies." %}
 
 ### Prenzlauer Berg
 
 Chaostheorie - (€) Vegan, Schliemannstraße 15, 10437.  Transit: Prenzlauer Allee, Eberswalder Straße or Schönhauser Allee.  
 Variety of vegan cakes to buy by the slice.  Cake was good but kind of dry.  
 [Website](http://www.chaostheorie.berlin/) [Yelp](https://www.yelp.com/biz/chaostheorie-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Chaostheorie_1.JPG"
+            title="Cake"
+            caption="Hazelnut Cake" %}
 
 Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderplatz.  
 [Website](https://liaskitchen.de/de/home) [Yelp](https://www.yelp.com/biz/lias-kitchen-berlin-3)
+{% include image.html
+            img="assets/vegan_berlin/Lias_Kitchen_1.JPG"
+            title="Burger and Shake"
+            caption="Smokey BBQ Mushroom Burger (6.90€) and Chocolate Milkshake (5.50€)" %}
 
 ### Friedrichshain
 
