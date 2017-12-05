@@ -155,6 +155,22 @@ Ask for their vegan menu.  They have a separate menu that’s all vegan and has 
 * Warschauer Str. 33, 10243 (Friedrichshain).  Transit: Warschauer Straße. [Yelp](https://www.yelp.com/biz/veganz-berlin-2)
 * Marheinekepl. 15, 10961 (Bergmannkiez).  Transit: U-Bhf Gneisenaustraße. [Yelp](https://www.yelp.com/biz/veganz-berlin-5)
 [Website](https://veganz.de/en/)
+{% include image.html
+            img="assets/vegan_berlin/Veganz_1.JPG"
+            title="First Veganz Haul"
+            caption="Veganz haul from first night in Berlin!" %}
+{% include image.html
+            img="assets/vegan_berlin/Veganz_1.JPG"
+            title="Cafe inside Veganz"
+            caption="Cafe inside Veganz." %}
+{% include image.html
+            img="assets/vegan_berlin/Veganz_1.JPG"
+            title="Another Veganz Haul"
+            caption="Another Veganz Haul." %}
+{% include image.html
+            img="assets/vegan_berlin/Veganz_1.JPG"
+            title="Yet Another Veganz Haul"
+            caption="Yet Another Veganz Haul." %}
 
 ### Beer
 The Reinheitsgebot, or “German Beer Purity Law”, is a Bavarian law from 1516 that states the only ingredients that could be used in the production of beer were water, barley, and hops.  Since 1516, there is a revised law (“Provisional Beer Law”) of 1993, which states that only water, malted barley, hops and yeast can be used for any bottom-fermented beer brewed in Germany.  This is good news for vegans, because it means German beers are vegan.
