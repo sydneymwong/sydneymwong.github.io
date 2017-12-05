@@ -38,6 +38,18 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
             caption="Porcini Mushroom & Cabbage Risotto with fried pumpkin, artichoke heart baked in tempura batter and tomato pesto." %}
 	
 
+### Bergmannkiez
+Buddha Haus - (€€) Serves meat but has vegan options, Akazienstraße 27, 10823.  Transit: Kleistpark.
+[Website](http://www.buddhahaus.com/) [Yelp](https://www.yelp.com/biz/buddha-haus-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Buddha_Haus_1.JPG"
+            title="Noodles"
+            caption="Dhal Bhat Tarkari and Vegetable Chau-Chau." %}
+{% include image.html
+            img="assets/vegan_berlin/Buddha_Haus_2.JPG"
+            title="Momos"
+            caption="The last momo.  I forgot to take a picture at the beginning!" %}
+	
 ### Mitte
 
 Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
@@ -95,38 +107,69 @@ Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderpl
             img="assets/vegan_berlin/Lias_Kitchen_1.JPG"
             title="Burger and Shake"
             caption="Smokey BBQ Mushroom Burger (6.90€) and Chocolate Milkshake (5.50€)" %}
+{% include image.html
+            img="assets/vegan_berlin/Lias_Kitchen_2.JPG"
+            title="Chicken Stripes Salad"
+            caption="Chicken Stripes Salad (6.90€)" %}
 
 ### Friedrichshain
 
 Curry and Beer - (€) Serves meat but has vegan options, Warschauer Str. 16, 10243.  Transit: Frankfurter Tor.  
 [Website](http://curryundbeer.com/) [Yelp](https://www.yelp.com/biz/curry-und-beer-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Curry_and_Beer_1.JPG"
+            title="Currywurst"
+            caption="Vegan Menu: 1 Seitan Currywurst, French Fries, and Drink (6.90€)" %}
+{% include image.html
+            img="assets/vegan_berlin/Curry_and_Beer_2.JPG"
+            title="Menu"
+            caption="Menu" %}
 
 Papa Nô - (€€) Serves meat but has vegan options, Warschauer Str. 81a, 10243.  Transit: Frankfurter Tor.  
 [Website](http://papa-no.de/) [Yelp](https://www.yelp.com/biz/papa-n%C3%B4-berlin-8)
+{% include image.html
+            img="assets/vegan_berlin/Papa_No_1.JPG"
+            title="Seitan and Curry"
+            caption="Chicken Skewer and Carrot Curry" %}
 
-Voner - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  
+Vöner - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  
 [Website](http://www.voener.de/)  [Yelp](https://www.yelp.com/biz/v%C3%B6ner-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Voner_1.JPG"
+            title="Dürum Vöner"
+            caption="Dürum Vöner (7 €)" %}
 
 Zeus Pizza & Pide - (€) Serves meat but has vegan options, Boxhagener Str. 29-30, 10245.  Transit: Frankfurter Tor.  
-Ask for their vegan menu.  They have a separate menu that’s all vegan and has a ton of options!  We had the Zeus pizza which had mushrooms, salami, ham, banana peppers, and cheese (9 €).
+Ask for their vegan menu.  They have a separate menu that’s all vegan and has a ton of options!
 [Website](https://www.zeuspizzeria.de/) [Yelp](https://www.yelp.com/biz/zeus-pizzeria-berlin) 
+{% include image.html
+            img="assets/vegan_berlin/Zeus_Pizza_and_Pide_1.JPG"
+            title="Pizza"
+            caption="Pizza with Mushrooms, Salami, Ham, Banana Peppers, and Cheese (9 €)" %}
 
 ## Grocery Stores
 
 ### Veganz - Vegan, 3 locations in Berlin:
 
-* Schivelbeiner Str. 34, 10439 (Prenzlauer Berg).  Transit: Schönhauser Allee.
-* Warschauer Str. 33, 10243 (Friedrichshain).  Transit: Warschauer Straße.
-* Marheinekepl. 15, 10961 (Bergmannkiez).  Transit: U-Bhf Gneisenaustraße.
+* Schivelbeiner Str. 34, 10439 (Prenzlauer Berg).  Transit: Schönhauser Allee. [Yelp](https://www.yelp.com/biz/veganz-berlin)
+* Warschauer Str. 33, 10243 (Friedrichshain).  Transit: Warschauer Straße. [Yelp](https://www.yelp.com/biz/veganz-berlin-2)
+* Marheinekepl. 15, 10961 (Bergmannkiez).  Transit: U-Bhf Gneisenaustraße. [Yelp](https://www.yelp.com/biz/veganz-berlin-5)
+[Website](https://veganz.de/en/)
 
 ### Beer
 The Reinheitsgebot, or “German Beer Purity Law”, is a Bavarian law from 1516 that states the only ingredients that could be used in the production of beer were water, barley, and hops.  Since 1516, there is a revised law (“Provisional Beer Law”) of 1993, which states that only water, malted barley, hops and yeast can be used for any bottom-fermented beer brewed in Germany.  This is good news for vegans, because it means German beers are vegan.
 
 ## Shopping (Clothes, Shoes)
 
-DearGoods Berlin - Clothing store that also sells handbags, Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee.
+DearGoods Berlin - Clothing store that also sells handbags, Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
+[Website](https://www.deargoods.com/) [Yelp](https://www.yelp.com/biz/deargoods-berlin)
 
-Avesu - Shoe store that also sells handbags.  Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee.
+Avesu - Shoe store that also sells handbags.  Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
+[Website](https://www.avesu.de/) [Yelp](https://www.yelp.com/biz/avesu-vegane-schuhe-berlin)
+{% include image.html
+            img="assets/vegan_berlin/Ahimsa_1.JPG"
+            title="Shoes"
+            caption="The vegan shoes I got at Avesu!  The brand is Ahimsa." %}
 
 ### Map
 <iframe src="https://www.google.com/maps/d/embed?mid=175lQV_PnwxQ61SE6uDgvCf1DiUv2FJon" width="640" height="480"></iframe>
