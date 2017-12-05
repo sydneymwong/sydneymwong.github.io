@@ -50,3 +50,11 @@ ul.posts li {
         margin-top: $spacing-unit / 3;
     }
 }
+
+figure { 
+	display: table; 
+}
+
+figcaption { 
+	display: table-caption; caption-side: bottom ; 
+}
