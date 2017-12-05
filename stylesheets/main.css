@@ -53,6 +53,7 @@ ul.posts li {
 
 figure { 
 	display: table; 
+	width: 60%;
 }
 
 figcaption { 
