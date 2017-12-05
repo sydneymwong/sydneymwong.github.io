@@ -160,15 +160,15 @@ Ask for their vegan menu.  They have a separate menu that’s all vegan and has 
             title="First Veganz Haul"
             caption="Veganz haul from first night in Berlin!" %}
 {% include image.html
-            img="assets/vegan_berlin/Veganz_1.JPG"
+            img="assets/vegan_berlin/Veganz_2.JPG"
             title="Cafe inside Veganz"
             caption="Cafe inside Veganz." %}
 {% include image.html
-            img="assets/vegan_berlin/Veganz_1.JPG"
+            img="assets/vegan_berlin/Veganz_3.JPG"
             title="Another Veganz Haul"
             caption="Another Veganz Haul." %}
 {% include image.html
-            img="assets/vegan_berlin/Veganz_1.JPG"
+            img="assets/vegan_berlin/Veganz_4.JPG"
             title="Yet Another Veganz Haul"
             caption="Yet Another Veganz Haul." %}
 
