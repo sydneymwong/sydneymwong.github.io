@@ -13,7 +13,7 @@ I have personally visited each place described below and taken all the pictures 
 
 ### Kurfurstendamm
 
-Vaust - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.  
+**Vaust** - (€€) Vegan, Pestalozzistraße 8, 10625.  Transit: Savignyplatz.  
 Must try their currywurst and home-brewed beer!  Best to make a reservation.
 [Website](http://vaust-berlin.de/) [Yelp](https://www.yelp.com/biz/vaust-berlin)
 {% include image.html
@@ -39,7 +39,7 @@ Must try their currywurst and home-brewed beer!  Best to make a reservation.
 	
 
 ### Bergmannkiez
-Buddha Haus - (€€) Serves meat but has vegan options, Akazienstraße 27, 10823.  Transit: Kleistpark.
+**Buddha Haus** - (€€) Serves meat but has vegan options, Akazienstraße 27, 10823.  Transit: Kleistpark.
 [Website](http://www.buddhahaus.com/) [Yelp](https://www.yelp.com/biz/buddha-haus-berlin)
 {% include image.html
             img="assets/vegan_berlin/Buddha_Haus_1.JPG"
@@ -52,14 +52,14 @@ Buddha Haus - (€€) Serves meat but has vegan options, Akazienstraße 27, 108
 	
 ### Mitte
 
-Momos - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
+**Momos** - (€) Vegetarian with vegan options, Chausseestraße 2, 10115.  Transit: Oranienburger Tor.  
 [Website](https://momos-berlin.de/) [Yelp](https://www.yelp.com/biz/momos-berlin-3)
 {% include image.html
             img="assets/vegan_berlin/Momos_1.JPG"
             title="Momos"
             caption="Momos Experience, for 2 people to share.  All 4 kinds of vegan Momos (Potato-Cabbage-Carrot, Pumpkin-Chickpeas, Broccoli-Shiitake-Tofu, Mushroom-Potato) and all 3 dips (Mitho, Lemon-Mint, Soy-Sesame)." %}
 
-Kopps - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
+**Kopps** - (€€€) Vegan, Linienstraße 94, 10115.  Transit: Rosenthaler Platz.  
 Pricier but great ambiance and food.  Best to make a reservation.  
 [Website](http://www.kopps-berlin.de/en/) [Yelp](https://www.yelp.com/biz/kopps-berlin)
 {% include image.html
@@ -93,7 +93,7 @@ Pricier but great ambiance and food.  Best to make a reservation.
 
 ### Prenzlauer Berg
 
-Chaostheorie - (€) Vegan, Schliemannstraße 15, 10437.  Transit: Prenzlauer Allee, Eberswalder Straße or Schönhauser Allee.  
+**Chaostheorie** - (€) Vegan, Schliemannstraße 15, 10437.  Transit: Prenzlauer Allee, Eberswalder Straße or Schönhauser Allee.  
 Variety of vegan cakes to buy by the slice.  Cake was good but kind of dry.  
 [Website](http://www.chaostheorie.berlin/) [Yelp](https://www.yelp.com/biz/chaostheorie-berlin)
 {% include image.html
@@ -101,7 +101,7 @@ Variety of vegan cakes to buy by the slice.  Cake was good but kind of dry.
             title="Cake"
             caption="Hazelnut Cake" %}
 
-Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderplatz.  
+**Lia’s Kitchen** - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderplatz.  
 [Website](https://liaskitchen.de/de/home) [Yelp](https://www.yelp.com/biz/lias-kitchen-berlin-3)
 {% include image.html
             img="assets/vegan_berlin/Lias_Kitchen_1.JPG"
@@ -114,7 +114,7 @@ Lia’s Kitchen - (€) Vegan, Kollwitzstraße 47, 10405.  Transit: Senefelderpl
 
 ### Friedrichshain
 
-Curry and Beer - (€) Serves meat but has vegan options, Warschauer Str. 16, 10243.  Transit: Frankfurter Tor.  
+**Curry and Beer** - (€) Serves meat but has vegan options, Warschauer Str. 16, 10243.  Transit: Frankfurter Tor.  
 [Website](http://curryundbeer.com/) [Yelp](https://www.yelp.com/biz/curry-und-beer-berlin)
 {% include image.html
             img="assets/vegan_berlin/Curry_and_Beer_1.JPG"
@@ -125,21 +125,21 @@ Curry and Beer - (€) Serves meat but has vegan options, Warschauer Str. 16, 10
             title="Menu"
             caption="Menu" %}
 
-Papa Nô - (€€) Serves meat but has vegan options, Warschauer Str. 81a, 10243.  Transit: Frankfurter Tor.  
+**Papa Nô** - (€€) Serves meat but has vegan options, Warschauer Str. 81a, 10243.  Transit: Frankfurter Tor.  
 [Website](http://papa-no.de/) [Yelp](https://www.yelp.com/biz/papa-n%C3%B4-berlin-8)
 {% include image.html
             img="assets/vegan_berlin/Papa_No_1.JPG"
             title="Seitan and Curry"
             caption="Chicken Skewer and Carrot Curry" %}
 
-Vöner - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  
+**Vöner** - (€) Vegan, Boxhagener Str. 56, 10245.  Transit: Ostkreuz.  
 [Website](http://www.voener.de/)  [Yelp](https://www.yelp.com/biz/v%C3%B6ner-berlin)
 {% include image.html
             img="assets/vegan_berlin/Voner_1.JPG"
             title="Dürum Vöner"
             caption="Dürum Vöner (7 €)" %}
 
-Zeus Pizza & Pide - (€) Serves meat but has vegan options, Boxhagener Str. 29-30, 10245.  Transit: Frankfurter Tor.  
+**Zeus Pizza & Pide** - (€) Serves meat but has vegan options, Boxhagener Str. 29-30, 10245.  Transit: Frankfurter Tor.  
 Ask for their vegan menu.  They have a separate menu that’s all vegan and has a ton of options!
 [Website](https://www.zeuspizzeria.de/) [Yelp](https://www.yelp.com/biz/zeus-pizzeria-berlin) 
 {% include image.html
@@ -171,21 +171,35 @@ Ask for their vegan menu.  They have a separate menu that’s all vegan and has 
             img="assets/vegan_berlin/Veganz_4.JPG"
             title="Yet Another Veganz Haul"
             caption="Yet Another Veganz Haul." %}
+{% include image.html
+            img="assets/vegan_berlin/Veganz_5.JPG"
+            title="Sunflower Pin"
+            caption="I got the yellow sunflower pin from Veganz in Prenzlauer Berg." %}
 
 ### Beer
 The Reinheitsgebot, or “German Beer Purity Law”, is a Bavarian law from 1516 that states the only ingredients that could be used in the production of beer were water, barley, and hops.  Since 1516, there is a revised law (“Provisional Beer Law”) of 1993, which states that only water, malted barley, hops and yeast can be used for any bottom-fermented beer brewed in Germany.  This is good news for vegans, because it means German beers are vegan.
 
+### Allergens
+All the menus have letters or numbers with a legend indicating possible allergens.  These include egg and dairy but also soy, wheat, nuts, seafood, etc.
+
 ## Shopping (Clothes, Shoes)
 
-DearGoods Berlin - Clothing store that also sells handbags, Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
+**DearGoods Berlin** - Clothing store that also sells handbags, Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
 [Website](https://www.deargoods.com/) [Yelp](https://www.yelp.com/biz/deargoods-berlin)
 
-Avesu - Shoe store that also sells handbags.  Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
+**Avesu** - Shoe store that also sells handbags.  Schivelbeiner Str. 35, 10439.  Transit: Schönhauser Allee. 
 [Website](https://www.avesu.de/) [Yelp](https://www.yelp.com/biz/avesu-vegane-schuhe-berlin)
 {% include image.html
             img="assets/vegan_berlin/Ahimsa_1.JPG"
             title="Shoes"
             caption="The vegan shoes I got at Avesu!  The brand is Ahimsa." %}
+			
+## Activism
+I'm sure there are many opportunities to be involved in vegan activism.  I did not actively seek these opportunities out.  However, one night at Alexanderplatz I did meet a group of vegans who had a table set up and were giving out flyers.  I stopped and talked to them and they said they were trying to end hunting, which is popular in Germany.
+{% include image.html
+            img="assets/vegan_berlin/Activism_1.JPG"
+            title="Anti-Hunting Flyer"
+            caption="An anti-hunting flyer that vegan activists gave me." %}
 
 ### Map
 <iframe src="https://www.google.com/maps/d/embed?mid=175lQV_PnwxQ61SE6uDgvCf1DiUv2FJon" width="640" height="480"></iframe>
