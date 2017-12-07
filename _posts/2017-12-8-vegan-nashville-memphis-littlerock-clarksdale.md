@@ -12,6 +12,7 @@ While I have not personally visited each place described below, my mom has and h
 ## Restaurants
 
 ### Nashville, Tennessee
+
 **Avo** - ($$) Vegan, 3 City Ave #200, Nashville, TN 37209.
 [Website](https://www.eatavo.com/) [Yelp](https://www.yelp.com/biz/avo-nashville-3) 
 {% include image.html
@@ -32,6 +33,7 @@ While I have not personally visited each place described below, my mom has and h
             caption="Maca cold brew with coconut milk." %}
 
 ### Memphis, Tennessee
+
 **The Trolley Stop Market** - ($$) Serves meat but has vegan options, 704 Madison Ave, Memphis, TN 38103.
 [Website](http://www.trolleystopmarket.com/) [Yelp](https://www.yelp.com/biz/trolley-stop-market-memphis) 
 {% include image.html
@@ -52,6 +54,7 @@ Order the veggie broth ramen "miso yasai" with rice noodles (the ramen noodles c
             caption="Veggie broth ramen "miso yasai" with rice noodles." %}
 
 ### Little Rock, Arkansas
+
 **The Fold: Botanas & Bar** - ($$) Serves meat but has vegan options, 3501 Old Cantrell Rd, Little Rock, AR 72202.
 [Website](http://thefoldlr.com/) [Yelp](https://www.yelp.com/biz/the-fold-botanas-and-bar-little-rock) 
 {% include image.html
@@ -74,22 +77,24 @@ Order the veggie broth ramen "miso yasai" with rice noodles (the ramen noodles c
             caption="Lavender latte with almond milk." %}
 			
 ### Clarksdale, Mississippi
+
 Unfortunately, my mom didn't go to any restaurants in Clarksdale.  She mostly cooked her own food at her Airbnb.  See map below for a few suggestions.
 
 ### Alcohol
+
 **Fat Bottom Ruby American Red Ale**
 [Barnivore](http://www.barnivore.com/products/32013-fat-bottom-ruby-american-red-ale)
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Fat_Bottom_1.jpg"
             title="Fat Bottom Ruby American Red Ale"
-            caption="" %}
+            caption=" " %}
 
 **Lazy Magnolia Southern Pecan**
 [Barnivore](http://www.barnivore.com/products/2276-southern-pecan)
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Lazy_Magnolia_1.jpeg"
             title="Lazy Magnolia Southern Pecan"
-            caption="" %}
+            caption=" " %}
 
 ### Nashville Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1OeJgbcBSW5oo3CfPqD59b6bdXCNK1yxk" width="640" height="480"></iframe>
