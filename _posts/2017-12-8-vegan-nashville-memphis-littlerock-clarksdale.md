@@ -2,7 +2,7 @@
 layout: post
 category: travel_blog
 title: "Vegan in Nashville, Memphis, Little Rock, and Clarksdale"
-date: 2017-12-06
+date: 2017-12-08
 ---
 
 My mom recently returned from a 10-day trip to Nashville, Memphis, Little Rock, and Clarksdale.  She asked me to find vegan restaurants for her and put them into a Google map that she could use on her trip.
@@ -30,8 +30,6 @@ While I have not personally visited each place described below, my mom has and h
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Avo_4.jpg"
             title="Maca cold brew"
             caption="Maca cold brew with coconut milk." %}
-
-
 
 ### Memphis, Tennessee
 **The Trolley Stop Market** - ($$) Serves meat but has vegan options, 704 Madison Ave, Memphis, TN 38103.
@@ -83,17 +81,15 @@ Unfortunately, my mom didn't go to any restaurants in Clarksdale.  She mostly co
 [Barnivore](http://www.barnivore.com/products/32013-fat-bottom-ruby-american-red-ale)
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Fat_Bottom_1.jpg"
-            title=""
+            title="Fat Bottom Ruby American Red Ale"
             caption="" %}
-
 
 **Lazy Magnolia Southern Pecan**
 [Barnivore](http://www.barnivore.com/products/2276-southern-pecan)
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Lazy_Magnolia_1.jpeg"
-            title=""
+            title="Lazy Magnolia Southern Pecan"
             caption="" %}
-
 
 ### Nashville Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1OeJgbcBSW5oo3CfPqD59b6bdXCNK1yxk" width="640" height="480"></iframe>
