@@ -70,11 +70,8 @@ Order the veggie broth ramen "miso yasai" with rice noodles (the ramen noodles c
             caption="The half and half, a bowl consisting of a half order of (tofu) dumplings and a half order of noodles, and a thirst-quenching cucumber infused water." %}
 			
 **Blue Sail Coffee** - ($$) Coffee shop with almond milk, 417 Main St, Little Rock, AR 72201.
+Order the lavender latte with almond milk.
 [Website](http://bluesail.coffee/littlerocktechpark/) [Yelp](https://www.yelp.com/biz/blue-sail-coffee-little-rock) 
-{% include image.html
-            img="assets/vegan_nashville_memphis_littlerock_clarksdale/Blue_Sail_1.jpg"
-            title="Lavender Latte"
-            caption="Lavender latte with almond milk." %}
 			
 ### Clarksdale, Mississippi
 
