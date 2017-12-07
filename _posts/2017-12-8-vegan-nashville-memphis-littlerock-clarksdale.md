@@ -51,7 +51,50 @@ Order the veggie broth ramen "miso yasai" with rice noodles (the ramen noodles c
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Robata_2.jpeg"
             title="Veggie Ramen"
-            caption="Veggie broth ramen "miso yasai" with rice noodles." %}
+            caption="Veggie broth ramen (miso yasai) with rice noodles." %}
+			
+### Little Rock, Arkansas
+
+**The Fold: Botanas & Bar** - ($$) Serves meat but has vegan options, 3501 Old Cantrell Rd, Little Rock, AR 72202.
+[Website](http://thefoldlr.com/) [Yelp](https://www.yelp.com/biz/the-fold-botanas-and-bar-little-rock) 
+{% include image.html
+            img="assets/vegan_nashville_memphis_littlerock_clarksdale/The_Fold_1.jpg"
+            title="Tacos"
+            caption="A taco with chimichurri marinated hearts of palm, avocado, pico de gallo and cilantro.  Another taco with roasted sweet potatoes, kale, caramelized onions, walnuts and green onion.  Both with no crema and no cheese." %}
+			
+**Three Fold Noodles + Dumpling Co.** - ($) Serves meat but has vegan options, 611 S Main St, Little Rock, AR 72201.
+[Website](http://eat3fold.com/) [Yelp](https://www.yelp.com/biz/three-fold-noodles-and-dumpling-little-rock) 
+{% include image.html
+            img="assets/vegan_nashville_memphis_littlerock_clarksdale/Three_Fold_1.jpeg"
+            title="Noodles and Dumplings"
+            caption="The half and half, a bowl consisting of a half order of (tofu) dumplings and a half order of noodles, and a thirst-quenching cucumber infused water." %}
+			
+**Blue Sail Coffee** - ($$) Coffee shop with almond milk, 417 Main St, Little Rock, AR 72201.
+[Website](http://bluesail.coffee/littlerocktechpark/) [Yelp](https://www.yelp.com/biz/blue-sail-coffee-little-rock) 
+{% include image.html
+            img="assets/vegan_nashville_memphis_littlerock_clarksdale/Blue_Sail_1.jpg"
+            title="Lavender Latte"
+            caption="Lavender latte with almond milk." %}
+			
+### Clarksdale, Mississippi
+
+Unfortunately, my mom didn't go to any restaurants in Clarksdale.  She mostly cooked her own food at her Airbnb.  See map below for a few suggestions.
+
+### Alcohol
+
+**Fat Bottom Ruby American Red Ale**
+[Barnivore](http://www.barnivore.com/products/32013-fat-bottom-ruby-american-red-ale)
+{% include image.html
+            img="assets/vegan_nashville_memphis_littlerock_clarksdale/Fat_Bottom_1.jpg"
+            title="Fat Bottom Ruby American Red Ale"
+            caption=" " %}
+
+**Lazy Magnolia Southern Pecan**
+[Barnivore](http://www.barnivore.com/products/2276-southern-pecan)
+{% include image.html
+            img="assets/vegan_nashville_memphis_littlerock_clarksdale/Lazy_Magnolia_1.jpeg"
+            title="Lazy Magnolia Southern Pecan"
+            caption=" " %}
 
 ### Nashville Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1OeJgbcBSW5oo3CfPqD59b6bdXCNK1yxk" width="640" height="480"></iframe>
