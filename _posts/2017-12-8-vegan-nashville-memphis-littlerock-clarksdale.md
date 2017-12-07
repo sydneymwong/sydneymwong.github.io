@@ -67,7 +67,7 @@ Order the veggie broth ramen "miso yasai" with rice noodles (the ramen noodles c
 {% include image.html
             img="assets/vegan_nashville_memphis_littlerock_clarksdale/Three_Fold_1.jpeg"
             title="Noodles and Dumplings"
-            caption="The 1/2 and 1/2, a bowl consisting of a half order of (tofu) dumplings and a half order of noodles, and a thirst-quenching cucumber infused water." %}
+            caption="The half and half, a bowl consisting of a half order of (tofu) dumplings and a half order of noodles, and a thirst-quenching cucumber infused water." %}
 			
 **Blue Sail Coffee** - ($$) Coffee shop with almond milk, 417 Main St, Little Rock, AR 72201.
 [Website](http://bluesail.coffee/littlerocktechpark/) [Yelp](https://www.yelp.com/biz/blue-sail-coffee-little-rock) 
