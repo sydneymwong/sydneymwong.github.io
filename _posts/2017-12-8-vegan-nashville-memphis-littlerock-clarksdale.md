@@ -2,7 +2,7 @@
 layout: post
 category: travel_blog
 title: "Vegan in Nashville, Memphis, Little Rock, and Clarksdale"
-date: 2017-12-08
+date: 2017-12-06
 ---
 
 My mom recently returned from a 10-day trip to Nashville, Memphis, Little Rock, and Clarksdale.  She asked me to find vegan restaurants for her and put them into a Google map that she could use on her trip.
