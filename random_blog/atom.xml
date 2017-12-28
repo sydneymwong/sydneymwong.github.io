@@ -4,18 +4,18 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Sydney Wong's Wellness Blog</title>
-	<link href="http://sydneymwong.github.io/wellness_blog/atom.xml" rel="self"/>
-	<link href="http://sydneymwong.github.io/wellness_blog"/>
+	<title>Sydney Wong's Random Blog</title>
+	<link href="http://sydneymwong.github.io/random_blog/atom.xml" rel="self"/>
+	<link href="http://sydneymwong.github.io/random_blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://sydneymwong.github.io/wellness_blog</id>
+	<id>http://sydneymwong.github.io/random_blog</id>
 	<author>
 		<name>Sydney Wong</name>
 		<email>sydneymwong@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
-		{% if post.categories contains 'wellness_blog' %}
+		{% if post.categories contains 'random_blog' %}
 			<entry>
 				<title>{{ post.title }}</title>
 				<link href="http://sydneymwong.github.io{{ post.url }}"/>
