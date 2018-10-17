@@ -47,18 +47,20 @@ I have personally visited each place described below and taken all the pictures 
 **Meet in Yaletown** - ($$) Vegan, 1165 Mainland Street.  
 [Website](http://www.meetonmain.com/) [Yelp](https://www.yelp.com/biz/meet-in-yaletown-vancouver?osq=meet)
 {% include image.html
-            img="assets/vegan_vancouver/meetinyaletown_1.JPG"
+            img="assets/vegan_vancouver/meetyaletown_1.JPG"
             title=""
             caption="" %}
 {% include image.html
-            img="assets/vegan_vancouver/meetinyaletown_2.JPG"
+            img="assets/vegan_vancouver/meetyaletown_2.JPG"
             title=""
             caption="" %}
 {% include image.html
-            img="assets/vegan_vancouver/meetinyaletown_3.JPG"
+            img="assets/vegan_vancouver/meetyaletown_3.JPG"
             title=""
             caption="" %}
       
-      
+### Vancouver Map
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iu79zFaixo4evDFtc37moP8FrORHsvpi" width="640" height="480"></iframe>
+
       
                         
