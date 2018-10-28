@@ -1,6 +1,6 @@
 ---
 layout: post
-category: staging
+category: travel_blog
 title: "Vegan in Vancouver"
 date: 2018-10-16
 ---
