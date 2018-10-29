@@ -11,6 +11,7 @@ While I am here, I am visiting multiple cities including Marrakech, Essaouira, C
 I have personally visited each place described below.  The pictures were taken either by me or my friend.  All the food shown below is vegan.
 
 ## Useful Arabic phrases
+
 | English | Arabic | Arabic Pronounciation | French  | French Pronounciation |
 |---------|--------|-----------------------|---------|-----------------------|
 | without | بدون   | bee-doon              | sans    | sah-ns                |
