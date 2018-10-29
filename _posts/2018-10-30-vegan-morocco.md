@@ -12,15 +12,15 @@ I have personally visited each place described below.  The pictures were taken e
 
 ## Useful Arabic phrases
 
-| English | Arabic | Arabic Pronounciation | French  | French Pronounciation |
-|---------|--------|-----------------------|---------|-----------------------|
-| without | بدون   | bee-doon              | sans    | sah-ns                |
-| egg     | بيض    | ba-eed                | oeuf    | oof                   |
-| milk    | حليب   | ha-leeb               | lait    | lay                   |
-| butter  | زبدة   | zoob-da               | beurre  | brr                   |
-| cheese  | فرماج  | fro-mah-ge            | fromage | fro-mah-ge            |
-| honey   | عسل    | ah-sal                | miel    | mee-elle              |
-| meat    | لحم    | la-him                | viande  | vee-ahnd              |
+| English 	| Arabic 	| Arabic Pronounciation 	| French  	| French Pronounciation 	|
+|---------	|--------	|-----------------------	|---------	|-----------------------	|
+| without 	| بدون   	| bee-doon              	| sans    	| sah-ns                	|
+| egg     	| بيض    	| ba-eed                	| oeuf    	| oof                   	|
+| milk    	| حليب   	| ha-leeb               	| lait    	| lay                   	|
+| butter  	| زبدة   	| zoob-da               	| beurre  	| brr                   	|
+| cheese  	| فرماج  	| fro-mah-ge            	| fromage 	| fro-mah-ge            	|
+| honey   	| عسل    	| ah-sal                	| miel    	| mee-elle              	|
+| meat    	| لحم    	| la-him                	| viande  	| vee-ahnd              	|
 
 ## Agadir
 
