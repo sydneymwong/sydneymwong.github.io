@@ -10,10 +10,9 @@ While I am here, I am visiting multiple cities including Marrakech, Essaouira, C
 
 I have personally visited each place described below.  The pictures were taken either by me or my friend.  All the food shown below is vegan.
 
-## Useful Arabic phrases
+## Useful Arabic and French Words
 
-| English 	| Arabic 	| Arabic                  	| French  	| French  	                |
-|           |           | Pronounciation            |           | Pronounciation            |
+| English 	| Arabic 	| Arabic<br>Pronounciation 	| French  	| French<br>Pronounciation  |
 |-----------|-----------|---------------------------|-----------|---------------------------|
 | without 	|    بدون   |	bee-doon              	| sans    	| sah-ns                	|
 | egg     	|    بيض    |	ba-eed                	| oeuf    	| oof                   	|
