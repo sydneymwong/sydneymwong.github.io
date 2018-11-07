@@ -31,8 +31,8 @@ My local host told me that most foods in bakeries and restaurants are made with 
 
 ## Marrakech
 ### Jemaa el-Fna
-**Earth Cafe** - Vegetarian with vegan options, 2, Derb Zawak, Riad Zitoun Kedim, Medina.
-This restaurant is down one of the narrow alleys in the Jemaa el-Fna.  The easiest way to find this restaurant is to use Google Maps.  After you make your way to the main alley you will see signs above you leading you to Earth Cafe.  The menu is in English and has a vegetarian section and a vegan section.  There is a lot of cozy seating inside and it's a great place to have a respite away from the bustle of the market.
+**Earth Cafe** - Vegetarian with vegan options, 2, Derb Zawak, Riad Zitoun Kedim, Medina.<br/>
+This restaurant is down one of the narrow alleys in the Jemaa el-Fna.  The easiest way to find this restaurant is to use Google Maps.  After you make your way to the main alley you will see signs above you leading you to Earth Cafe.  The menu is in English and has a vegetarian section and a vegan section.  There is a lot of cozy seating inside and it's a great place to have a respite away from the bustle of the market.<br/>
 [Website](http://www.earthcafemarrakech.com/) [HappyCow](https://www.happycow.net/reviews/earth-cafe-marrakech-13178)
 {% include image.html
             img="assets/vegan_morocco/Earth_Cafe_1.JPG"
@@ -67,8 +67,8 @@ This restaurant is down one of the narrow alleys in the Jemaa el-Fna.  The easie
             title="Entrance"
             caption="Entrance" %}
 
-**Zeitoun Cafe** - Serves meat but has vegan options, 107 de la Place Jemaa el-Fna, Medina.
-We came here by invitation from our contact at the US embassy so I was not expecting this restaurant to have vegan options.  Surprisingly, they had multiple vegan options and the menu (which was in French and English) clearly labeled items that were vegan!  Their menu is also on their website.  Our table shared the vegan Moroccan salads and I had the vegetable couscous.  They also had vegetable tagine.  This restaurant is in the center of the busy market and has a nice view if you sit upstairs outside.  It did seem like every table had tourists or foreigners.  But the food was great and was expensive by Moroccan standards, but not too expensive.
+**Zeitoun Cafe** - Serves meat but has vegan options, 107 de la Place Jemaa el-Fna, Medina.<br/>
+We came here by invitation from our contact at the US embassy so I was not expecting this restaurant to have vegan options.  Surprisingly, they had multiple vegan options and the menu (which was in French and English) clearly labeled items that were vegan!  Their menu is also on their website.  Our table shared the vegan Moroccan salads and I had the vegetable couscous.  They also had vegetable tagine.  This restaurant is in the center of the busy market and has a nice view if you sit upstairs outside.  It did seem like every table had tourists or foreigners.  But the food was great and was expensive by Moroccan standards, but not too expensive.<br/>
 [Website](https://www.zeitouncafe.com/en/) [HappyCow](https://www.happycow.net/reviews/zeitoun-cafe-marrakech-88282)
 {% include image.html
             img="assets/vegan_morocco/Zeitoun_Cafe_1.JPG"
