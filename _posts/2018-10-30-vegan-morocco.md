@@ -1,6 +1,6 @@
 ---
 layout: post
-category: staging
+category: travel_blog
 title: "Vegan in Morocco"
 date: 2018-11-23
 ---
@@ -36,7 +36,7 @@ My local host told me that most foods in bakeries and restaurants are made with 
 
 ### Supermarkets
 **Carrefour** - Boulevard Mohammed Cheikh Saadi, Agadir 80000 (Talborjt neighborhood, next to Aswak Salam)<br/>
-This supermarket has a wide variety of fruits, vegetables, spices, pickled foods like olives, etc.  They even have multiple kinds of soymilk (unsweetened, sweetened, fortified, chocolate, etc.).  They sell alcohol downstairs but that area closes before the rest of the supermarket (at around 5pm) so get there early if you want to buy alcohol.
+This supermarket has a wide variety of fruits, vegetables, spices, pickled foods like olives, etc.  They even have multiple kinds of soymilk (unsweetened, sweetened, fortified, chocolate, etc.).  They sell alcohol downstairs but that area closes before the rest of the supermarket (at 8pm) so get there early if you want to buy alcohol.
 {% include image.html
             img="assets/vegan_morocco/Carrefour_1.JPG"
             title="Lentils, veggies, chickpeas"
@@ -116,7 +116,7 @@ We came here by invitation from our contact at the US embassy so I was not expec
 Rabat has a lot of Syrian restaurants so falafel and hummus are abundant.
 
 ### Diour Jamaa
-**Yamal Al Sham** - Serves meat but has vegan options, 5 bis، 5 Avenue Al Maghrib Al Arabi, Rabat 10060.<br/>
+**Yamal Al Sham** - Serves meat but has vegan options, 5 bis, 5 Avenue Al Maghrib Al Arabi, Rabat 10060.<br/>
 I found this restaurant on HappyCow and it turned out that my local Moroccan friends had been to this restaurant before and liked it!  We went here twice over the three days we were in Rabat and it was busy both times.  The first time, we waited about 20 minutes for a table for 7 people and the second time we ordered our food to-go.<br/>
 [Website](http://yamalacham.ma/) [HappyCow](https://www.happycow.net/reviews/yamal-asham-rabat-65162)
 {% include image.html
