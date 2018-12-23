@@ -58,19 +58,19 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
   <div class="mySlides1">
     <div class="numbertext">1 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/soup_msemen_dates.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/soup_msemen_dates.JPG" style="width:75%">
     <div class="text">harira, oat soup, msemen, dates</div>
   </div>
 
   <div class="mySlides1">
     <div class="numbertext">2 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/rice_vegetables.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/rice_vegetables.JPG" style="width:75%">
     <div class="text">rice with vegetables - a restaurant in Tagazhout made this for me</div>
   </div>
 
   <div class="mySlides1">
     <div class="numbertext">3 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/msemen.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/msemen.JPG" style="width:75%">
     <div class="text">msemen</div>
   </div>
 
@@ -82,19 +82,19 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
   <div class="mySlides2">
     <div class="numbertext">1 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/apartment.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/apartment.JPG" style="width:75%">
     <div class="text">our apartment</div>
   </div>
 
   <div class="mySlides2">
     <div class="numbertext">2 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/neighborhood_houses.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/neighborhood_houses.JPG" style="width:75%">
     <div class="text">nice houses in our neighborhood</div>
   </div>
 
   <div class="mySlides2">
     <div class="numbertext">3 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/donkey.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/donkey.JPG" style="width:75%">
     <div class="text">our neighborhood donkey (this photo was taken from the doorstep of our apartment)</div>
   </div>
 
