@@ -6,7 +6,6 @@ date: 2018-12-22
 ---
 
 <div>
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -58,15 +57,15 @@ img {vertical-align: middle;}
 <p>Food:</p>
 <div class="slideshow-container">
   <div class="mySlides1">
-    <img src="assets/soup_msemen_dates.JPG" style="width:100%">
+    <img src="assets/morocco_photos/soup_msemen_dates.JPG" style="width:100%">
   </div>
 
   <div class="mySlides1">
-    <img src="assets/rice_vegetables.JPG" style="width:100%">
+    <img src="assets/morocco_photos/rice_vegetables.JPG" style="width:100%">
   </div>
 
   <div class="mySlides1">
-    <img src="assets/msemen.JPG" style="width:100%">
+    <img src="assets/morocco_photos/msemen.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
@@ -76,15 +75,15 @@ img {vertical-align: middle;}
 <p>Neighborhood:</p>
 <div class="slideshow-container">
   <div class="mySlides2">
-    <img src="assets/apartment.JPG" style="width:100%">
+    <img src="assets/morocco_photos/apartment.JPG" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/neighborhood_houses.JPG" style="width:100%">
+    <img src="assets/morocco_photos/neighborhood_houses.JPG" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/donkey.JPG" style="width:100%">
+    <img src="assets/morocco_photos/donkey.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
