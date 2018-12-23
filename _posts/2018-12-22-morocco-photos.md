@@ -57,15 +57,15 @@ img {vertical-align: middle;}
 <p>Food:</p>
 <div class="slideshow-container">
   <div class="mySlides1">
+    <img src="{{site.url}}/assets/morocco_photos/soup_msemen_dates.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides1">
     <img src="{{site.url}}/assets/morocco_photos/rice_vegetables.JPG" style="width:100%">
   </div>
 
   <div class="mySlides1">
-    <img src="assets/morocco_photos/rice_vegetables.JPG" style="width:100%">
-  </div>
-
-  <div class="mySlides1">
-    <img src="assets/morocco_photos/msemen.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/msemen.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
@@ -75,15 +75,15 @@ img {vertical-align: middle;}
 <p>Neighborhood:</p>
 <div class="slideshow-container">
   <div class="mySlides2">
-    <img src="assets/morocco_photos/apartment.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/apartment.JPG" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/morocco_photos/neighborhood_houses.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/neighborhood_houses.JPG" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/morocco_photos/donkey.JPG" style="width:100%">
+    <img src="{{site.url}}/assets/morocco_photos/donkey.JPG" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
