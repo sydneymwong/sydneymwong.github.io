@@ -57,10 +57,7 @@ img {vertical-align: middle;}
 <p>Food:</p>
 <div class="slideshow-container">
   <div class="mySlides1">
-    {% include image.html
-            img="assets/morocco_photos/soup_msemen_dates.JPG"
-            title=""
-            caption="" %}
+    <img src="{{site.url}}/assets/morocco_photos/rice_vegetables.JPG" style="width:100%">
   </div>
 
   <div class="mySlides1">
