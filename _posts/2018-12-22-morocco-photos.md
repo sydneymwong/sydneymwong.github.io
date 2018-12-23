@@ -5,6 +5,7 @@ title: "Morocco Photos"
 date: 2018-12-22
 ---
 
+<div>
 <!DOCTYPE html>
 <html>
 <head>
@@ -114,3 +115,4 @@ function showSlides(n, no) {
 
 </body>
 </html> 
+</div>
