@@ -13,7 +13,7 @@ These are photos from my Morocco trip.  Foods that I describe as "homemade" were
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
-.food_slides, .mySlides2 {display: none}
+.food_slides, .neighborhood_slides {display: none}
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -225,7 +225,6 @@ img {vertical-align: middle;}
     <img src="{{site.url}}/assets/morocco_photos/food/vegetable_curry_rice.JPG" style="width:75%">
     <div class="text">vegetable curry with rice.  Melissa brought Japanese curry from the US and she made it for our Moroccan hosts.</div>
   </div>
-  
 
   <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
   <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
@@ -233,19 +232,19 @@ img {vertical-align: middle;}
 
 <p>Our Neighborhood in Agadir:</p>
 <div class="slideshow-container">
-  <div class="mySlides2">
+  <div class="neighborhood_slides">
     <div class="numbertext">1 / 3</div>
     <img src="{{site.url}}/assets/morocco_photos/neighborhood/apartment.JPG" style="width:75%">
     <div class="text">our apartment</div>
   </div>
 
-  <div class="mySlides2">
+  <div class="neighborhood_slides">
     <div class="numbertext">2 / 3</div>
     <img src="{{site.url}}/assets/morocco_photos/neighborhood/neighborhood_houses.JPG" style="width:75%">
     <div class="text">nice houses in our neighborhood</div>
   </div>
 
-  <div class="mySlides2">
+  <div class="neighborhood_slides">
     <div class="numbertext">3 / 3</div>
     <img src="{{site.url}}/assets/morocco_photos/neighborhood/donkey.JPG" style="width:75%">
     <div class="text">our neighborhood donkey (this photo was taken from the doorstep of our apartment)</div>
@@ -257,7 +256,7 @@ img {vertical-align: middle;}
 
 <script>
 var slideIndex = [1,1];
-var slideId = ["food_slides", "mySlides2"]
+var slideId = ["food_slides", "neighborhood_slides"]
 showSlides(1, 0);
 showSlides(1, 1);
 
