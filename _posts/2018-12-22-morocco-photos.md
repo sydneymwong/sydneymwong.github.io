@@ -234,19 +234,19 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
   <div class="neighborhood_slides">
     <div class="numbertext">1 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/neighborhood/apartment.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/neighborhood/apartment.JPG" style="width:100%">
     <div class="text">our apartment</div>
   </div>
 
   <div class="neighborhood_slides">
     <div class="numbertext">2 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/neighborhood/neighborhood_houses.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/neighborhood/neighborhood_houses.JPG" style="width:100%">
     <div class="text">nice houses in our neighborhood</div>
   </div>
 
   <div class="neighborhood_slides">
     <div class="numbertext">3 / 3</div>
-    <img src="{{site.url}}/assets/morocco_photos/neighborhood/donkey.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/neighborhood/donkey.JPG" style="width:100%">
     <div class="text">our neighborhood donkey (this photo was taken from the doorstep of our apartment)</div>
   </div>
 
