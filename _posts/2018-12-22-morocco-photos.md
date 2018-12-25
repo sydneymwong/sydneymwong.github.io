@@ -60,169 +60,169 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
   <div class="food_slides">
     <div class="numbertext">1 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/soup_msemen_dates.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/soup_msemen_dates.JPG" style="width:100%">
     <div class="text">harira, oat soup, msemen, dates</div>
   </div>
 
   <div class="food_slides">
     <div class="numbertext">2 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/rice_vegetables.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/rice_vegetables.JPG" style="width:100%">
     <div class="text">rice with vegetables - a restaurant in Tagazhout made this for me</div>
   </div>
 
   <div class="food_slides">
     <div class="numbertext">3 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/msemen.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/msemen.JPG" style="width:100%">
     <div class="text">msemen</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">4 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/harsha_msemen.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/harsha_msemen.JPG" style="width:100%">
     <div class="text">neighborhood spot to buy bread, harsha, msemen, and meloui</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">5 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/msemen_local.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/msemen_local.JPG" style="width:100%">
     <div class="text">msemen from the same local shop</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">6 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/homemade_rice_veggies.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/homemade_rice_veggies.JPG" style="width:100%">
     <div class="text">homemade (by Somayya's mom) rice with veggies (olives, potato, green beans, etc.).  usually eaten with meat but I ate it alone.</div>
   </div>
 
   <div class="food_slides">
     <div class="numbertext">7 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/moroccan_salad.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/moroccan_salad.JPG" style="width:100%">
     <div class="text">homemade moroccan salad</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">8 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/sifr.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/sifr.JPG" style="width:100%">
     <div class="text">homemade (by Somayya's mom) sifr (vermicelli noodles with cinnamon, peanuts, sugar, raisins)</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">9 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/rafisa.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/rafisa.JPG" style="width:100%">
     <div class="text">homemade (by Somayya's mom) rafisa (layers of msemen and lentils)</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">10 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/harsha.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/harsha.JPG" style="width:100%">
     <div class="text">harsha (like cornbread)</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">11 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/fries_babaganoush_hummus.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/fries_babaganoush_hummus.JPG" style="width:100%">
     <div class="text">homemade fries, babaganoush, and hummus</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">12 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/ziyad_salad.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/ziyad_salad.JPG" style="width:100%">
     <div class="text">homemade salad</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">13 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/breakfast_condiments.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/breakfast_condiments.JPG" style="width:100%">
     <div class="text">spreads to be eaten with bread during breakfast</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">14 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/tiznit_salad.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/tiznit_salad.JPG" style="width:100%">
     <div class="text">homemade salad in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">15 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/basmati_rice.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/basmati_rice.JPG" style="width:100%">
     <div class="text">basmati rice in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">16 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/vegetables_tiznit.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/vegetables_tiznit.JPG" style="width:100%">
     <div class="text">vegetables in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">17 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/mango.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/mango.JPG" style="width:100%">
     <div class="text">sliced mango in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">18 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/vegetable_pasta_tiznit.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/vegetable_pasta_tiznit.JPG" style="width:100%">
     <div class="text">vegetable pasta at a restaurant in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">19 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/banana_smoothie_tiznit.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/banana_smoothie_tiznit.JPG" style="width:100%">
     <div class="text">banana smoothie in Tiznit</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">20 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/breakfast_tiznit.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/breakfast_tiznit.JPG" style="width:100%">
     <div class="text">breakfast at Le Nid d'aigle</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">21 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/beer.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/beer.JPG" style="width:100%">
     <div class="text">beer at Le Nid d'aigle, celebrating my friend who paraglided!</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">22 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/olives.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/olives.JPG" style="width:100%">
     <div class="text">olives at Le Nid d'aigle</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">23 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/sandwich.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/sandwich.JPG" style="width:100%">
     <div class="text">sandwich in Sidi Ifni</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">24 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/homemade_babaganoush.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/homemade_babaganoush.JPG" style="width:100%">
     <div class="text">homemade babaganoush</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">25 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/homemade_lunch.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/homemade_lunch.JPG" style="width:100%">
     <div class="text">homemade lunch (bread, babaganoush, salsa, roasted vegetables</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">26 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/pizza.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/pizza.JPG" style="width:100%">
     <div class="text">pizza from taco place in Adrar.  They didn't have vegetarian pizza on the menu, so this was a special order.  I even saw him go to the shop next door to buy the zucchini, bell pepper, and eggplant.</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">27 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/homemade_rice_sauce.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/homemade_rice_sauce.JPG" style="width:100%">
     <div class="text">homemade rice with tomato sauce and bell pepper</div>
   </div>
   
   <div class="food_slides">
     <div class="numbertext">28 / 28</div>
-    <img src="{{site.url}}/assets/morocco_photos/food/vegetable_curry_rice.JPG" style="width:75%">
+    <img src="{{site.url}}/assets/morocco_photos/food/vegetable_curry_rice.JPG" style="width:100%">
     <div class="text">vegetable curry with rice.  Melissa brought Japanese curry from the US and she made it for our Moroccan hosts.</div>
   </div>
 
